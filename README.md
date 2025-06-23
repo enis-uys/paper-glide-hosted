@@ -12,8 +12,8 @@ This project is an early proof-of-concept and not a finished product—expect pl
 ## Play the Game
 
 **WebGL Build:**
-The current WebGL version has not been optimized for web performance. You may encounter longer loading times, visual issues, or performance drops.
-[Play Paper Glide (WebGL)](https://enis-uys.github.io/paper-glide-hosted/)  
+The current WebGL version has not been optimized for web performance. You may encounter longer loading times, visual issues, or performance drops:
+[Play Paper Glide (WebGL)](https://enis-uys.github.io/paper-glide-hosted/)
 
 ## Features
 
