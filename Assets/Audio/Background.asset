@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94ad4cdbd985fd419e28685cf8de614, type: 3}
+  m_Name: Background
+  m_EditorClassIdentifier: 
+  IntroMode: 1
+  LoopMode: 2
+  IntroClip: {fileID: 8300000, guid: fd81424853a32d3478d4a38ddac3c592, type: 3}
+  LoopingClip: {fileID: 8300000, guid: 2bde8d3cb33b7a74ca941c5f6e2c6e3e, type: 3}
+  IntroBoundaryStart: 24.18
+  IntroBoundaryEnd: 24.19
+  Volume: 1

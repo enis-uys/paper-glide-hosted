@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 81fbaf3a4dc852f43b535809f9b3d95a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8c08a9cd77f8345b596158c95b7a15
+      internalID: -32180129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 715.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006161ec44c02c94285847e44b787300
+      internalID: -1240408886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 715.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc7f07d77c555249bfc3ca7a9b89010
+      internalID: -1580311955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 715.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebbb6837a569ae4ab118c20e17fe637
+      internalID: 945539297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3810f8a5e31af4dad912d4c892dbd8
+      internalID: -1725416044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 572.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0507f26dea1d74c865243bfa94dacd
+      internalID: 1918573745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 572.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38e79c3d0b32f4080707ddab4a3201
+      internalID: 1456341742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 572.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb89bafef3e166c4c8bb7b3a0ce13137
+      internalID: -1297358576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e3591fb78edb54fb4f1dc1e72673e6
+      internalID: 187727632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 429.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e551bb2d94508140a0ef79063efaced
+      internalID: -643441433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 429.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98e9d8206d1af14d8c1af43fbd9d29f
+      internalID: 1057143705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 429.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06d5dec2fe068441b7b4cfa10b2f208
+      internalID: -1237488951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 429.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b382059ed8af384a82c7d077bd8fabf
+      internalID: 1008193647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b988dfa19163e4ba4e5223de5b2053
+      internalID: -2034290394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 286.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dc0b7bb4c8b8f4fb1c317f9adfff91
+      internalID: -1753165868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 286.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f22b7f643f4f24f83ead0a1f6d7690
+      internalID: -830538464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 286.8333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5e288536e064947a08ad01fa48b82a
+      internalID: -118825962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143.83333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24122acc6c5fa6f488286bdb9dc8f5c4
+      internalID: 1863293133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143.83333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c0e455d5e75a945b05ad8801f3a2b9
+      internalID: 894829587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 143.83333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423dce024eeda144c9af9453d9bfc6e0
+      internalID: 957535841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 143.83333
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b529412e60d614091e14d57d7b7c50
+      internalID: -747932583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32bit-PaperAirplane-Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.83332825
+        width: 143.2
+        height: 143.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf931cc0e7a0fb4681f3cecc4d42ad3
+      internalID: -2048110656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      32bit-PaperAirplane-Spritesheet_0: -32180129
+      32bit-PaperAirplane-Spritesheet_1: -1240408886
+      32bit-PaperAirplane-Spritesheet_10: 187727632
+      32bit-PaperAirplane-Spritesheet_11: -643441433
+      32bit-PaperAirplane-Spritesheet_12: 1057143705
+      32bit-PaperAirplane-Spritesheet_13: -1237488951
+      32bit-PaperAirplane-Spritesheet_14: 1008193647
+      32bit-PaperAirplane-Spritesheet_15: -2034290394
+      32bit-PaperAirplane-Spritesheet_16: -1753165868
+      32bit-PaperAirplane-Spritesheet_17: -830538464
+      32bit-PaperAirplane-Spritesheet_18: -118825962
+      32bit-PaperAirplane-Spritesheet_19: 1863293133
+      32bit-PaperAirplane-Spritesheet_2: -1580311955
+      32bit-PaperAirplane-Spritesheet_20: 894829587
+      32bit-PaperAirplane-Spritesheet_21: 957535841
+      32bit-PaperAirplane-Spritesheet_22: -747932583
+      32bit-PaperAirplane-Spritesheet_23: -2048110656
+      32bit-PaperAirplane-Spritesheet_3: 945539297
+      32bit-PaperAirplane-Spritesheet_4: -722446282
+      32bit-PaperAirplane-Spritesheet_5: -1725416044
+      32bit-PaperAirplane-Spritesheet_6: 1918573745
+      32bit-PaperAirplane-Spritesheet_7: 1456341742
+      32bit-PaperAirplane-Spritesheet_8: -1297358576
+      32bit-PaperAirplane-Spritesheet_9: -1967876315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
